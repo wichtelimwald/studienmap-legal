@@ -218,6 +218,15 @@ footer a:hover {
   margin-top: 2.5rem;
 }
 
+.device-label {
+  margin: 1.75rem 0 0.6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
 .screenshot-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
